@@ -5,14 +5,13 @@ Unofficial fork of pojav launcher
 <img src="https://github.com/user-attachments/assets/977d8c83-eec6-4a15-aa37-4188f87ba0d4" align="left" width="130" height="150" alt="PojavLauncher logo">
 
 Featues to be implemented-
-- New App Icon + New name
 - Arc/Cosmetica to PojavPlus Capes
 - Ely.by skin support (injector)
 - Embed Java 8 and 17 into the app
 <!-- - Update Discord and make a wiki -->
 
 Features implemented successfully-
-- Purple UI
+- Purple UI + New App Icon + New name
 - DNS to Cloudflare to fix some download issues
 ----
 
