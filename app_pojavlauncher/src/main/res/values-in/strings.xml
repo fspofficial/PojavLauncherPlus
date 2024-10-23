@@ -2,7 +2,7 @@
 <resources>
     <!-- App name part -->
     <string name="app_name">PojavLauncher (Minecraft: Java Edition untuk Android)</string>
-    <string name="app_short_name">PojavLauncher</string>
+    <string name="app_short_name">PojavLauncher Plus</string>
     <!-- Action bar part -->
     <!-- Languages list part -->
     <!-- Login strings -->
@@ -197,8 +197,8 @@
     <string name="global_delete">Hapus</string>
     <string name="pedit_java_runtime">Runtime Java</string>
     <string name="pedit_renderer">Renderer</string>
-    <string name="arc_capes_title">Capes Cosmetica</string>
-    <string name="arc_capes_desc">Mengaktifkan capes dari Cosmetica (sebelumnya Arc). Untuk informasi lebih lanjut silahkan kunjungi https://cosmetica.cc. Membutuhkan OptiFine.</string>
+    <string name="arc_capes_title">PojavPlus Capes</string>
+    <string name="arc_capes_desc">Enables capes from Pojav+ Servers. Requires OptiFine/Kappa/Capes Mod.</string>
     <string name="notif_channel_name">Umum</string>
     <string name="lazy_service_default_title">Pojav Foreground Service</string>
     <string name="mcl_setting_veroption_installed">Terpasang</string>

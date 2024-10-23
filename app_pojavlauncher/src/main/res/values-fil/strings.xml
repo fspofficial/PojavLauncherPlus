@@ -2,7 +2,7 @@
 <resources>
     <!-- App name part -->
     <string name="app_name">PojavLauncher (Minecraft: Java Edition for Android) Translation By Justine Victorino or EnderProJustine</string>
-    <string name="app_short_name">PojavLauncher</string>
+    <string name="app_short_name">PojavLauncher Plus</string>
     <!-- Action bar part -->
     <!-- Languages list part -->
     <!-- Login strings -->
@@ -151,8 +151,8 @@
     <string name="global_delete">Burahin</string>
     <string name="pedit_java_runtime">Java Runtime</string>
     <string name="pedit_renderer">Renderer</string>
-    <string name="arc_capes_title">Capes galing sa Cosmetica</string>
-    <string name="arc_capes_desc">Pinapagana ang mga kapa mula sa Cosmetica (ang dating Arc). Para sa karagdagang impormasyon mangyaring bisitahin ang https://cosmetica.cc  Kinagangailangan ng OptiFine.</string>
+    <string name="arc_capes_title">PojavPlus Capes</string>
+    <string name="arc_capes_desc">Enables capes from Pojav+ Servers. Requires OptiFine/Kappa/Capes Mod.</string>
     <string name="notif_channel_name">Pangkalahatan</string>
     <string name="lazy_service_default_title">Serbisyong Harapan ng Pojav</string>
     <string name="mcl_setting_veroption_installed">Naka-Install</string>

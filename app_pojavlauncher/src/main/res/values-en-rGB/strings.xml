@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App name part -->
-    <string name="app_name">PojavLauncher (Minecraft: Java Edition for Android)</string>
-    <string name="app_short_name">PojavLauncher</string>
+    <string name="app_name">PojavLauncher Plus (Unofficial PojavLauncher Fork)</string>
+    <string name="app_short_name">PojavLauncher Plus</string>
     <!-- Action bar part -->
     <!-- Languages list part -->
     <!-- Login strings -->
@@ -199,8 +199,8 @@
     <string name="global_delete">Delete</string>
     <string name="pedit_java_runtime">Java Runtime</string>
     <string name="pedit_renderer">Renderer</string>
-    <string name="arc_capes_title">Cosmetica Capes</string>
-    <string name="arc_capes_desc">Enables capes from Cosmetica (previously Arc). For more information please visit https://cosmetica.cc. Requires OptiFine.</string>
+    <string name="arc_capes_title">PojavPlus Capes</string>
+    <string name="arc_capes_desc">Enables capes from Pojav+ Servers. Requires OptiFine/Kappa/Capes Mod.</string>
     <string name="notif_channel_name">General</string>
     <string name="lazy_service_default_title">Pojav Foreground Service</string>
     <string name="mcl_setting_veroption_installed">Installed</string>

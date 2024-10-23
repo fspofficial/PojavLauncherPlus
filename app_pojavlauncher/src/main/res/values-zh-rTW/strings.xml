@@ -2,7 +2,7 @@
 <resources>
     <!-- App name part -->
     <string name="app_name">PojavLauncher（適用於 Android 的《Minecraft：Java版》）</string>
-    <string name="app_short_name">PojavLauncher</string>
+    <string name="app_short_name">PojavLauncher Plus</string>
     <!-- Action bar part -->
     <!-- Languages list part -->
     <!-- Login strings -->
@@ -201,8 +201,8 @@
     <string name="global_delete">刪除</string>
     <string name="pedit_java_runtime">Java執行環境</string>
     <string name="pedit_renderer">渲染器</string>
-    <string name="arc_capes_title">Cosmetica披風</string>
-    <string name="arc_capes_desc">透過Cosmetica(前身為Arc)啟用披風。需要Optifine。更多資訊請至https://cosmetica.cc。</string>
+    <string name="arc_capes_title">PojavPlus Capes</string>
+    <string name="arc_capes_desc">Enables capes from Pojav+ Servers. Requires OptiFine/Kappa/Capes Mod.</string>
     <string name="notif_channel_name">一般設定</string>
     <string name="lazy_service_default_title">Pojav背景服務</string>
     <string name="mcl_setting_veroption_installed">已安裝</string>

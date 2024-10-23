@@ -2,7 +2,7 @@
 <resources>
     <!-- App name part -->
     <string name="app_name">PojavLauncher (Minecraft: Java Edition su Android)</string>
-    <string name="app_short_name">PojavLauncher</string>
+    <string name="app_short_name">PojavLauncher Plus</string>
     <!-- Action bar part -->
     <!-- Languages list part -->
     <!-- Login strings -->
@@ -166,8 +166,8 @@
     <string name="global_delete">Elimina</string>
     <string name="pedit_java_runtime">Runtime Java</string>
     <string name="pedit_renderer">Renderer</string>
-    <string name="arc_capes_title">Mantelli Cosmetica</string>
-    <string name="arc_capes_desc">Abilità i mantelli di Cosmetica (precedentemente Arc). Per ulteriori informazioni visita https://cosmetica.cc. Necessita OptiFine.</string>
+    <string name="arc_capes_title">PojavPlus Capes</string>
+    <string name="arc_capes_desc">Enables capes from Pojav+ Servers. Requires OptiFine/Kappa/Capes Mod.</string>
     <string name="notif_channel_name">Generale</string>
     <string name="lazy_service_default_title">Servizio di Foreground Pojav</string>
     <string name="mcl_setting_veroption_installed">Installato</string>

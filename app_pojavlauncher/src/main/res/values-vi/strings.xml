@@ -2,7 +2,7 @@
 <resources>
     <!-- App name part -->
     <string name="app_name">PojavLauncher</string>
-    <string name="app_short_name">PojavLauncher</string>
+    <string name="app_short_name">PojavLauncher Plus</string>
     <!-- Action bar part -->
     <!-- Languages list part -->
     <!-- Login strings -->
@@ -165,8 +165,8 @@
     <string name="global_delete">Xóa</string>
     <string name="pedit_java_runtime">Java Runtime</string>
     <string name="pedit_renderer">Trình kết xuất</string>
-    <string name="arc_capes_title">Áo choàng Cosmetica</string>
-    <string name="arc_capes_desc">Sử dụng áo choàng từ dịch vụ Cosmetica (trước đây là Arc). Để biết thêm thông tin, truy cập https://cosmetica.cc. Yêu cầu có OptiFine.</string>
+    <string name="arc_capes_title">PojavPlus Capes</string>
+    <string name="arc_capes_desc">Enables capes from Pojav+ Servers. Requires OptiFine/Kappa/Capes Mod.</string>
     <string name="notif_channel_name">Chung</string>
     <string name="lazy_service_default_title">Dịch vụ tiền cảnh Pojav</string>
     <string name="mcl_setting_veroption_installed">Đã cài đặt</string>

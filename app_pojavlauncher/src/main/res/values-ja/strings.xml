@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App name part -->
-    <string name="app_name">PojavLauncher (Minecraft: Java Edition for Android)</string>
-    <string name="app_short_name">PojavLauncher</string>
+    <string name="app_name">PojavLauncher Plus (Unofficial PojavLauncher Fork)</string>
+    <string name="app_short_name">PojavLauncher Plus</string>
     <!-- Action bar part -->
     <!-- Languages list part -->
     <!-- Login strings -->
@@ -163,8 +163,8 @@
     <string name="global_delete">削除</string>
     <string name="pedit_java_runtime">Javaランタイム</string>
     <string name="pedit_renderer">レンダラー</string>
-    <string name="arc_capes_title">コスメチカ・ケープズ</string>
-    <string name="arc_capes_desc">Cosmetica（以前のArc）のケープを有効にします。詳細については、https：//cosmetica.ccをご覧ください。 OptiFineが必要です。</string>
+    <string name="arc_capes_title">PojavPlus Capes</string>
+    <string name="arc_capes_desc">Enables capes from Pojav+ Servers. Requires OptiFine/Kappa/Capes Mod.</string>
     <string name="notif_channel_name">一般</string>
     <string name="lazy_service_default_title">Pojav フォアグラウンドサービス</string>
     <string name="mcl_setting_veroption_installed">インストール済み</string>

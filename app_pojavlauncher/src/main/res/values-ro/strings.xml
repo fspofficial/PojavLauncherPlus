@@ -2,7 +2,7 @@
 <resources>
     <!-- App name part -->
     <string name="app_name">PojavLauncher (Minecraft: Java Edition pentru Android)</string>
-    <string name="app_short_name">PojavLauncher</string>
+    <string name="app_short_name">PojavLauncher Plus</string>
     <!-- Action bar part -->
     <!-- Languages list part -->
     <!-- Login strings -->
@@ -156,8 +156,8 @@
     <string name="global_delete">Șterge</string>
     <string name="pedit_java_runtime">Java Runtime</string>
     <string name="pedit_renderer">Randator</string>
-    <string name="arc_capes_title">Pelerine Cosmetica</string>
-    <string name="arc_capes_desc">Activează pelerinele de la Cosmetica (anterior Arc). Pentru mai multe informații, vizitează https://cosmetica.cc. Necesită OptiFine.</string>
+    <string name="arc_capes_title">PojavPlus Capes</string>
+    <string name="arc_capes_desc">Enables capes from Pojav+ Servers. Requires OptiFine/Kappa/Capes Mod.</string>
     <string name="notif_channel_name">General</string>
     <string name="lazy_service_default_title">Serviciu Pojav prim-plan</string>
     <string name="mcl_setting_veroption_installed">Instalat</string>
