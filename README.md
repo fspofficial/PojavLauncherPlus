@@ -2,7 +2,7 @@
 Unofficial fork of pojav launcher
 
 Featues to be implemented-
-- Purple UI + New App Icon + New name
+- New App Icon + New name
 - Arc/Cosmetica to PojavPlus Capes
 - Ely.by skin support (injector)
 - Embed Java 8 and 17 into the app
@@ -10,7 +10,7 @@ Featues to be implemented-
 - Update Discord and make a wiki
 
 Features implemented successfully-
-- `Kuch nhi hua abhi.. :>`
+- Purple UI
 ----
 
 <img src="https://github.com/PojavLauncherTeam/PojavLauncher/blob/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left" width="130" height="150" alt="PojavLauncher logo">
