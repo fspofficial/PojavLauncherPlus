@@ -140,6 +140,7 @@ public class MainActivity extends BaseActivity implements ControlButtonMenuListe
         ContextExecutor.setActivity(this);
         //Now, attach to the service. The game will only start when this happens, to make sure that we know the right state.
         bindService(gameServiceIntent, this, 0);
+        Toast.makeText(getApplicationContext(), "Don't forget to say Thanks to SyanicXD ♥", Toast.LENGTH_SHORT).show();
     }
 
     protected void initLayout(int resId) {
