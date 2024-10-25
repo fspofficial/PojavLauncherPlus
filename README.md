@@ -1,3 +1,21 @@
+<H1 align="center">PojavLauncher Plus</H1>
+An unofficial fork of our beloved PojavLauncher.
+
+<img src="https://github.com/fspofficial/PojavLauncherPlus/blob/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left" width="130" height="150" alt="PojavLauncher logo">
+
+- Added new Red UI + Icon + New name ofc
+
+- Added [ely.by](https://ely.by/)  Skins support
+
+- Added CloudflareDNS instead of Google DNS, so there are less download issues ([it's faster btw](https://cybersins.com/img/0221/dns_query_time.png))
+
+- A smol welcome message :)
+
+_Forked by SyanicXD, from India btw :)_ 🇮🇳
+
+
+
+<br>
 <H1 align="center">PojavLauncher</H1>
 
 <img src="https://github.com/PojavLauncherTeam/PojavLauncher/blob/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left" width="130" height="150" alt="PojavLauncher logo">
