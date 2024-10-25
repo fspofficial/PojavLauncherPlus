@@ -366,7 +366,9 @@ public class JREUtils {
                 "-Dloader.disable_forked_guis=true"
         ));
         if(LauncherPreferences.PREF_ARC_CAPES) {
-            overridableArguments.add("-javaagent:"+new File(Tools.DIR_DATA,"arc_dns_injector/arc_dns_injector.jar").getAbsolutePath()+"=23.95.137.176");
+            // arc_dns_injector.jar is replaced with authlib to integrate ely.by skin support into the launcher instead of cosmetica capes.
+            // Read mroe about it here- https://docs.ely.by/en/authlib-injector.html
+            overridableArguments.add("-javaagent:"+new File(Tools.DIR_DATA,"arc_dns_injector/arc_dns_injector.jar").getAbsolutePath()+"=ely.by");
         }
         List<String> additionalArguments = new ArrayList<>();
         for(String arg : overridableArguments) {
